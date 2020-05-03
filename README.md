@@ -1,3 +1,7 @@
-## Projet ACP - CAH - Kmeans
+### Projet ACP - CAH - Kmeans
 
-### Jeu de données INCA3 - ANSES (Voir dossier infos)
+Exploration de données issues de l'étude INCA3 de l’ANSES   
+
+Projet "Consommations et habitudes alimentaires en France métropolitaine"   
+
+Rapport pdf dans dossier infos
